@@ -1,0 +1,646 @@
+[
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 1,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 1,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 1,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 1,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 2,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 3,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 4,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 6,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 6,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "W",
+        "last_stop_id": "R01N",
+        "arrival_time": 8,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 9,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 10,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 11,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 12,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 13,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 15,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 15,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "W",
+        "last_stop_id": "R01N",
+        "arrival_time": 15,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 15,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 16,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 16,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 17,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 18,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 20,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 22,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 23,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 25,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 27,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 28,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 28,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 30,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 30,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 30,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 31,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 32,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 33,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 35,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 36,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 38,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 39,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 40,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 41,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 41,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 42,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 43,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 45,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 46,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 47,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 48,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 49,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 49,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 50,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 52,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 52,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 54,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 56,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 57,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 58,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 60,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 61,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "R45S",
+        "arrival_time": 61,
+        "last_stop_name": "Bay Ridge-95 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 62,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 63,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 64,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 64,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 65,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "D40S",
+        "arrival_time": 66,
+        "last_stop_name": "Brighton Beach",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 68,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 72,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 72,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 72,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "D43S",
+        "arrival_time": 73,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 76,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 77,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 80,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 83,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 83,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 84,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 85,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D43S",
+        "arrival_time": 88,
+        "last_stop_name": "Coney Island-Stillwell Av",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 88,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 89,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 94,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 94,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 96,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "R",
+        "last_stop_id": "G21N",
+        "arrival_time": 96,
+        "last_stop_name": "Queens Plaza",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F35S",
+        "arrival_time": 99,
+        "last_stop_name": "Kings Hwy",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "F",
+        "last_stop_id": "F01N",
+        "arrival_time": 103,
+        "last_stop_name": "Jamaica-179 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "Q",
+        "last_stop_id": "Q05N",
+        "arrival_time": 104,
+        "last_stop_name": "96 St",
+        "service_status": "Serv. Chng."
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": 107,
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "D",
+        "last_stop_id": "D01N",
+        "arrival_time": 109,
+        "last_stop_name": "Norwood-205 St",
+        "service_status": "Good Srvice"
+    },
+    {
+        "route_id": "N",
+        "last_stop_id": "R01N",
+        "arrival_time": "due",
+        "last_stop_name": "Astoria-Ditmars Blvd",
+        "service_status": "Good Srvice"
+    }
+]
