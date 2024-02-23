@@ -20,14 +20,14 @@ let jsonData = readJsonFile();
 // Update jsonData every 30 seconds
 setInterval(() => {
     jsonData = readJsonFile();
-}, 45000); // 30000 milliseconds = 30 seconds
+}, 30000); // 30000 milliseconds = 30 seconds
 
 app.use('/api/arrivals', (req, res) => {
     let r = { data: [] };
 
     // Convert the object values to an array and then iterate
     Object.values(jsonData).forEach((entry, index) => {
-        if (index < 39) { // Limiting to 15 entries. ADJUST THIS IF YOU WANT MORE  OR LESS  RESULTS
+        if (index < 15) { // Limiting to 15 entries. ADJUST THIS IF YOU WANT MORE  OR LESS  RESULTS
             let data = {
                 airline: entry.route_id,       // Using route_id as an example
                 city: entry.last_stop_name,    // Using last_stop_name as an example
