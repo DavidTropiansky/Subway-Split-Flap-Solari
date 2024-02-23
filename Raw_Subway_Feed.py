@@ -742,7 +742,7 @@ while True:
 
 
         # Define the list of possible route_ids
-    route_ids = ["1", "2", "3", "4", "5", "6", "6X", "7", "7X", "A", "B", "C", "D", "E", "F", "G", "J", "L", "M", "N", "Q", "R", "S", "W", "Z","GS","FS","H" ]
+    route_ids = ["1", "2", "3", "4", "5", "6", "6X", "7", "7X", "A", "B", "C", "D", "E", "F", "G", "J", "L", "M", "N", "Q", "R", "S", "W", "Z","GS","FS","H", "FX"]
 
     # Initialize a dictionary to store the service status for each route_id
     service_status_dict = {route_id: "Good Srvice" for route_id in route_ids}
