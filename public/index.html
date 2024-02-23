@@ -10,7 +10,7 @@
     <!-- ============================================ -->
     <!-- CONTAINER -->
     <div id="board" class="chartContainer splitflap">
-      <h1>14 St - Union Square</h1> <!-- EDIT TITLE HERE FOR THE STATION YOU ARE DISPLAYING-->
+      <h1>34 St - Herald Square</h1> <!-- EDIT TITLE HERE FOR THE STATION YOU ARE DISPLAYING-->
 
       <!-- Header: 30px/char, 15px/separator, 120px/logo -->
       <div class="header" style="width:120px;margin-left:0px;">Route</div>
@@ -116,14 +116,14 @@
         plugin: 'arrivals', // Plugin to load
         container: $('#board'), // Where in the DOM to put the board
         template: $('#row_template'), // Where in the DOM to find the row template
-        numRows: 39, // number of rows to generate
+        numRows: 15, // number of rows to generate
 
         // OPTIONAL
         sort: 'scheduled', // the column to sort by
         order: 'asc', // the order to sort by
-        maxResults: 39, // number of results to retrieve from data feed
+        maxResults: 15, // number of results to retrieve from data feed
         pageInterval: 20000, // delay between pages (ms) e.g. you have 20 results but only 15 rows, 5 more will show on the next page
-        stagger: 800 // delay between loading rows (ms) This will speed up or slow down the split flap
+        stagger: 1000 // delay between loading rows (ms) This will speed up or slow down the split flap
       };
 
       $(document).ready(function() {
