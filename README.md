@@ -23,6 +23,8 @@ Make sure all dependencies are installed
 ```
 git clone https://github.com/DavidTropiansky/Subway-Split-Flap-Solari/
 cd Split-Flap
+conda env create -f environment.yml
+conda activate transit
 npm install
 ```
 You **need** to change the file paths in Raw_Subway_Feed.py and in app.js to local paths on your machine, along with inputting your own API key. 
