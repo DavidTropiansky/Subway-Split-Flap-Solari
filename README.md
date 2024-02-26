@@ -18,6 +18,14 @@ D - The Route as designated by the MTA
 17 - The station number of that route
 N - Northbound departures only 
 ```
+Make sure all dependencies are installed
+
+```
+git clone https://github.com/DavidTropiansky/Subway-Split-Flap-Solari/
+cd Split-Flap
+npm install
+```
+You **need** to change the file paths in Raw_Subway_Feed.py and in app.js to local paths on your machine, along with inputting your own API key. 
 The python program pulls both arrival times and service status from the MTA feeds. For service status, 'Good Service' is anything that is not planned service changes, or if no service changes or found. "Serv. Chng.' only occurs when there is an unplanned service disruption. It can either be a Delay in service, or an unplanned change in service. 
 
 Once you plug in your API key, set up the directory for the required input/output files in the Python code. You will also need to adjust jsonFilePath in app.js to read the live data. After this is done, run the python program 'Raw_Subway_Feed.py', followed by 'app.js'. 
