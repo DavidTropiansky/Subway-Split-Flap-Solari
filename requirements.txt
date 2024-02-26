@@ -1,0 +1,1 @@
+gtfs-realtime-bindings==1.0.0protobuf3-to-dict==0.1.5requests==2.31.0
