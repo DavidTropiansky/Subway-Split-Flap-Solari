@@ -1,8 +1,8 @@
 # Virtual Split-Flap Display
 
-====================
+================================
 ## There is a new, simpler version of this project here: [Subway Split Flap v1.5](https://github.com/DavidTropiansky/Subway-Split-Flap-Solari-v1.5).
-
+================================
 
 ![Screenshot](thumbnail.png)
 
