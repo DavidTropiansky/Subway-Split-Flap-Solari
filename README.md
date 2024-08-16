@@ -1,5 +1,9 @@
 # Virtual Split-Flap Display
 
+====================
+## There is a new, simpler version of this project here: [Subway Split Flap v1.5](https://github.com/DavidTropiansky/Subway-Split-Flap-Solari-v1.5).
+
+
 ![Screenshot](thumbnail.png)
 
 This is a simulation of a split-flap display (often called a Solari board) designed to run locally in a web browser. It dynamically loads JSON data from the MTA data feeds and renders that data as characters and images on the board. Individual characters are animated using CSS sprites.
